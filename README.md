@@ -1,15 +1,15 @@
 # Welcome!
 
-My name is David and I'm a full-stack developer currently working on the <a href="https://vrms.io" target="_blank">VRMS</a> team at <a href="https://hackforla.org" target="_blank">Hack for LA</a>.
+My name is David and I'm a full-stack developer currently working on the [VRMS](https://vrms.io) team at [Hack for LA](https://hackforla.org) .
 
-I am a classical composer turned passionate web developer. I am currently spending most of my time working with Javascript, React and MongoDB, but I have done lots of work with PHP, MySQL, Drupal, Wordpress and many other technologies.
+I am a classical composer turned passionate web developer. I currently spend most of my time working with Javascript, React and MongoDB, but I have done lots of work with PHP, MySQL, Drupal, Wordpress and many other technologies.
 
 I am a problem solver who sees obstacles as opportunities, and clear goals and good practices as the way to deliver product. I am a self-starter who loves working on teams, both learning from and mentoring team members.
 
 ## Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/davidarubinstein/" target="_blank">
+  <a href="https://www.linkedin.com/in/davidarubinstein/">
     <img src="./assets/linkedin.png" title="LinkedIn" alt="LinkedIn" height="40" />
   </a>
 </p>
